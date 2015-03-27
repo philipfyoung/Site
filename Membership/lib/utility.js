@@ -1,4 +1,6 @@
+/*jslint node: true */
 'use strict';
+
 //TODOS: Document what this functions does
 exports.randomString = function(stringLength) {
     stringLength = stringLength || 12;

@@ -1,4 +1,7 @@
-'use strict';
+/*jshint strict:false*/
+/*jslint node: true */
+"use strict";
+
 
 var assert = require("assert");
 var utility = require("../lib/utility");            // imports the utility file, along with its functions and attributes
